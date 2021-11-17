@@ -21,9 +21,9 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Commit Frecuency][commit-shield][commit-url]]
-[![Last Commit][last-commit-shield][commit-url]]
-[![Languages][languages-shield][languages-url]]
+[![Commit Frecuency][commit-shield]][commit-url]
+[![Last Commit][last-commit-shield]][commit-url]
+[![Languages][languages-shield]][languages-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -73,9 +73,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Leetcode is a website where people–mostly software engineers–practice their coding skills. There are 800+ questions (and growing), each with multiple solutions. Questions are ranked by level of difficulty: easy, medium, and hard.
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `trujillo9616`, `leetcode-solutions`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+For many, the objective for using LeetCode isn’t about just passing the technical interview. It’s about passing the technical interview at the elite tech companies: Facebook, Amazon, Apple, Netflix, and Google. LeetCode questions are often asked during interviews at these companies, some more than at others.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -92,9 +92,9 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] All Solutions in Python
-- [] All Solutions in JavaScript
-- [] Learn other programming languages
+-  All Solutions in Python
+-  All Solutions in JavaScript
+-  Learn other programming languages
 
 See the [open issues](https://github.com/trujillo9616/leetcode-solutions/issues) for a full list of proposed refactors.
 
@@ -111,9 +111,9 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
+2. Create your Feature Branch (`git checkout -b solutions/AmazingSolution`)
+3. Commit your Changes (`git commit -m 'Add some AmazingSolution'`)
+4. Push to the Branch (`git push origin solutions/AmazingSolution`)
 5. Open a Pull Request
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -132,7 +132,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Adrian Trujillo - [@trujillo96](https://twitter.com/trujillo96) - email@email_client.com
+Adrian Trujillo - [@trujillo96](https://twitter.com/trujillo96) - adrian.td96@gmail.com
 
 Project Link: [https://github.com/trujillo96/leetcode-solutions](https://github.com/trujillo96/leetcode-solutions)
 
