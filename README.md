@@ -7,8 +7,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -17,6 +15,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -26,8 +25,6 @@
 [![Languages][languages-shield]][languages-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -48,8 +45,6 @@
   </p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -68,9 +63,8 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 Leetcode is a website where people–mostly software engineers–practice their coding skills. There are 800+ questions (and growing), each with multiple solutions. Questions are ranked by level of difficulty: easy, medium, and hard.
@@ -79,30 +73,29 @@ For many, the objective for using LeetCode isn’t about just passing the techni
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 ### Solutions in
 
-* [Python](https://python.org/)
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
+- [Python](https://www.python.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
--  All Solutions in Python
--  All Solutions in JavaScript
--  Learn other programming languages
+- Develop Solutions in JavaScript
+- Develop Solutions in TypeScript
+- Develop Solutions in Python
+- Learn other programming languages and develop the solutions!
 
 See the [open issues](https://github.com/trujillo9616/leetcode-solutions/issues) for a full list of proposed refactors.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -118,18 +111,16 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Adrian Trujillo - [@trujillo96](https://twitter.com/trujillo96) - adrian.td96@gmail.com
@@ -138,24 +129,12 @@ Project Link: [https://github.com/trujillo96/leetcode-solutions](https://github.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/trujillo9616/leetcode-solutions
 [contributors-url]: https://github.com/trujillo9616/leetcode-solutions/graphs/contributors
-[forks-shield]:https://img.shields.io/github/forks/trujillo9616/leetcode-solutions
+[forks-shield]: https://img.shields.io/github/forks/trujillo9616/leetcode-solutions
 [forks-url]: https://github.com/trujillo9616/leetcode-solutions/network/members
 [stars-shield]: https://img.shields.io/github/stars/trujillo9616/leetcode-solutions
 [stars-url]: https://github.com/trujillo9616/leetcode-solutions/stargazers
@@ -168,7 +147,6 @@ Project Link: [https://github.com/trujillo96/leetcode-solutions](https://github.
 [product-screenshot]: images/screenshot.png
 [languages-shield]: https://img.shields.io/github/languages/count/trujillo9616/leetcode-solutions
 [languages-url]: https://github.com/trujillo9616/leetcode-solutions/search?l=python
-
 [commit-shield]: https://img.shields.io/github/commit-activity/m/trujillo9616/leetcode-solutions?color=purple
 [last-commit-shield]: https://img.shields.io/github/last-commit/trujillo9616/leetcode-solutions
 [commit-url]: https://github.com/trujillo9616/leetcode-solutions/graphs/commit-activity
